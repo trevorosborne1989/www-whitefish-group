@@ -1,7 +1,7 @@
 # www-whitefish-group
 A website for newcomers, members, and visitors of the Whitefish Group.
 
-The is a create-react-app with an express backend via a proxy.
+This is a create-react-app with an express backend via a proxy.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
